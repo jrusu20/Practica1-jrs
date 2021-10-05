@@ -1,4 +1,7 @@
 # Practica1-jrs
 
 ## Enlaces 
-ver [index.html](/index.html)
+
+
+
+![Captura de Pantalla](Fotos/logo.JPEG)
